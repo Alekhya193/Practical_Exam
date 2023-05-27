@@ -1,1 +1,2 @@
 create a version control account on github
+and git commands to create repository
